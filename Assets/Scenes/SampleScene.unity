@@ -2947,7 +2947,7 @@ GameObject:
   - component: {fileID: 1758922094}
   - component: {fileID: 1758922093}
   m_Layer: 0
-  m_Name: Star Trek TNG Cast_0
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
